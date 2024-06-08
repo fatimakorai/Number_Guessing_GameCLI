@@ -1,0 +1,25 @@
+{
+  "name": "fatimakorai-number_guessing_gamecli",
+  "version": "1.0.0",
+  "description": "Second Project of Quarter 1 TypeScript (GIAIC)",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "fatimakorai-number_guessing_gamecli": "./main.js" 
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "fatimakorai-number_guessing_gamecli": "^1.0.0",
+    "i": "^0.3.7",
+    "inquirer": "^9.2.23",
+    "npm": "^10.8.1"
+  }
+}
